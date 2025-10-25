@@ -1,5 +1,4 @@
-# aquarium-fish
-  <html>
+<html>
     <head>
         <title>FishMarket</title>
         <link rel="stylesheet" href="style.css">
@@ -20,7 +19,7 @@
             <section class="info">
                 <article>
                     <h2> Риби на продаж</h2>
-                    <section class="fish">
+                   <section class="fish">
                     <div class="gallery">
                     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiZR5AkZ7KxA30nv6EXFpCBWmJocK51TfwGnxCdP1DFwbxx_CaAotFM6nhWv3On_tzYXY&usqp=CAU" width="400px" height="300px"/>
                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnRKjFrlUmOIK_DFPjHvUhIPbdbRQMad0Oew&s" width="400px" height="300px"/> 
@@ -51,10 +50,10 @@
 <h2> Корм </h2>
 <p> Також ми маємо різні корма!</p>
  <section class="eat">
-                    <div>
+                    <div class="gallery">
                     <img src="https://pollypets.com.ua/m/goods/ga/3bf0fe9fd7abaf06ac7f1e70c3e95290.jpg" width="400px" height="300px"/>
-                   <img src="https://pollypets.com.ua/m/goods/ga/3bf0fe9fd7abaf06ac7f1e70c3e95290.jpg"width="400px" height="300px"> 
-                    <img src="https://pollypets.com.ua/m/goods/ga/3bf0fe9fd7abaf06ac7f1e70c3e95290.jpg"width="400px" height="300px"/>
+                   <img src="https://korm-rybam.com.ua/wp-content/uploads/2023/12/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D1%8C%D0%BA%D1%96-%D0%BA%D0%BE%D1%80%D0%BC%D0%B0-Hikari4.jpg"width="400px" height="300px"> 
+                    <img src="https://masterzoo.ua/content/images/22/160x160l80nn0/tetra-min-baby-suxoy-korm-dlja-akvariumnyx-ryb-65-ml-49514474346568.jpg"width="400px" height="300px"/>
                     </div>
                     </section>
                     <p class="foto">Поговоримо про новинки</p>
@@ -92,4 +91,3 @@
         </footer>
     </body>
 </html>
-           

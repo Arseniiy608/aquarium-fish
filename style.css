@@ -65,7 +65,7 @@ background-color: white;
 
 }
 .gallery { display: flex;
-    width: 800px;
+    width: 2000px;
     flex-wrap: wrap;
 }
 p { color: blueviolet;

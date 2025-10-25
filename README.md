@@ -51,10 +51,10 @@
 <h2> Корм </h2>
 <p> Також ми маємо різні корма!</p>
  <section class="eat">
-                    <div class="gallery">
+                    <div>
                     <img src="https://pollypets.com.ua/m/goods/ga/3bf0fe9fd7abaf06ac7f1e70c3e95290.jpg" width="400px" height="300px"/>
-                   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faquashop.com.ua%2Fua%2Friba-ta-aksesuari%2Fkorm-dlya-stavkovikh-rib&psig=AOvVaw0KISLjDtnXEl8FkCKelOSF&ust=1761466284839000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCICD6rXzvpADFQAAAAAdAAAAABAz"width="400px" height="300px"> 
-                    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Frozetka.com.ua%2Fua%2Fkorma-dlia-ryb%2Fc3429664%2F&psig=AOvVaw0KISLjDtnXEl8FkCKelOSF&ust=1761466284839000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCICD6rXzvpADFQAAAAAdAAAAABA9"width="400px" height="300px"/>
+                   <img src="https://pollypets.com.ua/m/goods/ga/3bf0fe9fd7abaf06ac7f1e70c3e95290.jpg"width="400px" height="300px"> 
+                    <img src="https://pollypets.com.ua/m/goods/ga/3bf0fe9fd7abaf06ac7f1e70c3e95290.jpg"width="400px" height="300px"/>
                     </div>
                     </section>
                     <p class="foto">Поговоримо про новинки</p>

@@ -50,7 +50,7 @@
 <h2> Корм </h2>
 <p> Також ми маємо різні корма!</p>
  <section class="eat">
-                    <div class="gallery">
+                    <div class="fiti">
                     <img src="https://pollypets.com.ua/m/goods/ga/3bf0fe9fd7abaf06ac7f1e70c3e95290.jpg" width="400px" height="300px"/>
                     </div>
                     </section>

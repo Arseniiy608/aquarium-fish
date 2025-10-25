@@ -74,7 +74,8 @@
         <footer>
             <a href="https://masterzoo.ua/ua/catalog/akvariumistika/korm-dlya-rib/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" width="80px" height="80px"></a>
             <a href="https://aquaribki.com.ua/uk/akvariumnyye-rybki?srsltid=AfmBOoqzanF2JlG5sG4jQi1cprAxiGOG2eWMigWO_hZUfcFmqbjK5Yup"><img src="https://img.freepik.com/premium-vector/instagram-vector-logo-icon-social-media-logotype_901408-392.jpg?semt=ais_hybrid&w=740&q=80" width="80px" height="80px"></a>
-            <p><b>Напиши - отримай <br/> промокод!</b></p> 
+            <p><b>Напиши - отримай <br/> промокод!</b></p>
+            <h2> Коментарі </h2>
             <section class="comentar">
                  <article class="review">
             <p>

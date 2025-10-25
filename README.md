@@ -52,6 +52,7 @@
  <section class="eat">
                     <div class="fiti">
                     <img src="https://pollypets.com.ua/m/goods/ga/3bf0fe9fd7abaf06ac7f1e70c3e95290.jpg" width="400px" height="300px"/>
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-dHeoUq2IiQ7wXaUYpNXQT6O2PGuaxDUnA&s" width="400px" height="300px"/>
                     </div>
                     </section>
                     <p class="foto">Поговоримо про новинки</p>
